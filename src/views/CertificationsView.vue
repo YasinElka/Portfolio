@@ -35,7 +35,7 @@ export default {
           namn: 'Grundläggande programmering', // Namn som visas i listan
           bild: require('@/assets/certifikat-Yasin-elkawwash-grundlaggande-programmering.png') // Bildsökväg
         },
-        // Lägg till fler certifikat här vid behov
+       
       ]
     };
   },
